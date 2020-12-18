@@ -3,7 +3,7 @@ source('http://rubygems.org')
 
 ################################################################################
 # Mandatory gems
-gem('rails', '3.1.1')
+gem('rails', '3.1.12')
 gem('sqlite3') # or your database adapter of choice
 gem('json')
 
